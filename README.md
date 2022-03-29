@@ -1,2 +1,2 @@
 # cpp_bioinfomatics_library
-String algorithm
+String algorithm written by cpp
